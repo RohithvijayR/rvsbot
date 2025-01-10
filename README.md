@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://envs.sh/TME.jpg" alt="VJ-Filter-Bot Logo">
+  <img src="https://t.me/+X5vd9mLvKYE1OWY1" alt="RVSBOT Logo">
 </p>
 <h1 align="center">
   VJ FILTER BOT
@@ -35,9 +35,6 @@
 
 - Note : You Can Turn On Or Off Every Feature, Just Use Which Feature You Want By Turning It On.
 
-Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Update Regarding Repo.</b>
-
-### How To Deploy : [Video Tutorial](https://youtu.be/3SJR7vH2kRo)
 
 ## Commands
 ```
